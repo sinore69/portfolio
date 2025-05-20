@@ -1,0 +1,26 @@
+{
+  "index": {
+    "title": "home", 
+    "type": "page"
+  }, 
+  "projects": {
+    "title": "projects", 
+    "type": "page"
+  }, 
+  "blogs": {
+    "title": "blogs", 
+    "type": "page"
+  }, 
+  "bits": {
+    "title": "bits", 
+    "type": "page",
+    "theme": {
+      "toc": false,
+      "sidebar": false
+    }
+  }, 
+  "contact": {
+    "title": "contact", 
+    "type": "page"
+  }
+}
